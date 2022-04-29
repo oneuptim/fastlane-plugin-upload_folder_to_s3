@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = %q{peter@teriiehina.pf}
 
   spec.summary       = %q{Upload a folder to S3}
-  spec.homepage      = "https://github.com/teriiehina/fastlane-plugin-upload_folder_to_s3"
+  spec.homepage      = "https://github.com/oneuptim/fastlane-plugin-upload_folder_to_s3"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
